@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\ameli\Documents\GitHub\Hang-Man-CPlusPlus\HangMan\Main.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HangMan.vcxproj -> C:\Users\ameli\Documents\GitHub\Hang-Man-CPlusPlus\HangMan\Debug\HangMan.exe

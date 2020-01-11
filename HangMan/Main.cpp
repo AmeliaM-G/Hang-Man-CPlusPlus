@@ -1,6 +1,8 @@
 #include <cstdio>
 #include <iostream>
 #include <string>
+#include <stdlib.h> // for random selection
+#include <time.h> // for random slection
 
 using namespace std;
 
@@ -25,5 +27,13 @@ string words[] = {
 
 
 int main() {
+
+	// RANDOM WORD SELECTION:
+	srand(time(NULL)); // initialises random seed
+	int length = sizeof(words) / sizeof(words[0]);
+	//cout << "length of array is: " << length << endl;
+	int randIndex = rand() % length;
+	//cout << "random word is: " << words[randIndex] << endl;
+
 	return 0;
 }
