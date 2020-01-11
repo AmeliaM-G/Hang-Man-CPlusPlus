@@ -33,7 +33,14 @@ int main() {
 	int length = sizeof(words) / sizeof(words[0]);
 	//cout << "length of array is: " << length << endl;
 	int randIndex = rand() % length;
-	//cout << "random word is: " << words[randIndex] << endl;
+	const string word = words[randIndex];
+	//cout << "random word is: " << word << endl;
+
+	//BLANK OUT WORD:
+	int wordLength = word.size();
+	//cout << "word is: " << word << ". Length of word is: " << wordLength << endl;
+	string blank(wordLength, '-');
+	cout << "word is: " << word << ". blank is: " << blank << endl;
 
 	return 0;
 }
