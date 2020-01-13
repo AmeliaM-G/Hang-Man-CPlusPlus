@@ -7,5 +7,6 @@ current problems:
   .vs/HangMan/v16 file in repository which is not needed and uploaded unknowingly, do not know how to delete.
   
 Planned Improvements:
-  distinguishing between wrong guess and previously guessed.
-  displaying list of previous incorrect guesses.
+  Distinguishing between wrong guess and previously guessed.
+  Displaying list of previous incorrect guesses.
+  Generate words randomly from dictionary.
