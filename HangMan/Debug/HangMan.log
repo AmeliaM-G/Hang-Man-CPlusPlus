@@ -1,3 +1,4 @@
 ﻿  Main.cpp
-C:\Users\ameli\Documents\GitHub\Hang-Man-CPlusPlus\HangMan\Main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ameli\Documents\GitHub\Hang-Man-CPlusPlus\HangMan\Main.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ameli\Documents\GitHub\Hang-Man-CPlusPlus\HangMan\Main.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   HangMan.vcxproj -> C:\Users\ameli\Documents\GitHub\Hang-Man-CPlusPlus\HangMan\Debug\HangMan.exe
