@@ -10,3 +10,4 @@ Planned Improvements:
   Distinguishing between wrong guess and previously guessed.
   Displaying list of previous incorrect guesses.
   Generate words randomly from dictionary.
+  If more than one character entered, give warning.
