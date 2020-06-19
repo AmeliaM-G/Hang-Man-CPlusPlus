@@ -1,5 +1,5 @@
 # Hang-Man-CPlusPlus
-A mini project to practice using C++ in preperation before starting a university module based on the language.
+A mini project to practice using C++.
 
 Basic game completed 13/01/2020.
 
