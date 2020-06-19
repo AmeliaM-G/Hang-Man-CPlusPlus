@@ -56,7 +56,7 @@ int main() {
 
 	//DISPLAY TO USER:
 	cout << "Welcome to HangMan!" << endl;
-	cout << "You have to guess a randomly gnerated word of 5 characters or more!" << endl;
+	cout << "You have to guess a randomly generated word of 5 characters or more!" << endl;
 	cout << "You have " << lives << " lives." << endl;
 	cout << "You will lose lives if you guess wrong or enter the same letter more than once." << endl;
 	string start;
